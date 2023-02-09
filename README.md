@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @madstringer
-- 👀 I’m interested in all things hacking, information security, and scripting
-- 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on nothing atm
 - 📫 ;-)
 
 <!---
